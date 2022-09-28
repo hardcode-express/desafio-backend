@@ -57,7 +57,7 @@ Você irá desenvolver a API de uma aplicação para a criação de um quiz de p
 
 ## Critério de avaliação
 
-* **Organização do código**: Separação de módulos, view e model
+* **Organização do código**: Separação de módulos
 * **Clareza**: O README explica de forma resumida qual é o problema e como pode rodar a aplicação?
 * **Assertividade**: A aplicação está fazendo o que é esperado? Se tem algo faltando, o README explica o porquê?
 * **Legibilidade do código** (incluindo comentários)
